@@ -1,10 +1,10 @@
 ## 👋 Hi, I'm Nicolas Carboni
 
-🎓 I have a Bachelor degree in Computer Science Engineering from Politecnico di Milano.
+🎓 I hold a Bachelor’s degree in Computer Science Engineering from Politecnico di Milano.
 
-🎓 I am currently completing my Master in Computer Science Engineering, writing a thesis about Zero-Knowledge Proofs (ZKP).
+🎓 I have completed my Master’s degree in Computer Science Engineering, with the thesis ["A framework implementation of Zero-Knowledge Proof of Collaborative Business Intelligence"](https://github.com/ISGroup-Polimi/CBI-ZKP).
 
-📊 I am interested in working in data management and analysis.
+📊 I am currently seeking opportunities in Data Analysis and Data Science, with a strong interest in data management, analytics, and extracting insights from complex datasets.
 
 ### 📂 Bachelor Degree Projects
 
