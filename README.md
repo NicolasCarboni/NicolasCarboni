@@ -4,7 +4,7 @@
 
 🎓 I have completed my **Master’s degree in Computer Science Engineering**, with a thesis focused on Zero-Knowledge Proofs for Collaborative Business Intelligence.
 
-📊 I am currently seeking opportunities in **Data Analysis and Data Science**, with a strong interest in data management, analytics, and extracting insights from complex datasets.
+📊 I am currently seeking opportunities in **Data Engineer and Data Analyst** positions, with a strong interest in data management, analytics, and extracting insights from complex datasets.
 
 ### 📂 Bachelor Degree Projects
 
